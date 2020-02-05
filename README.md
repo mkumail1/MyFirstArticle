@@ -11,4 +11,4 @@ This was my first touch of HTML I thought to share it with you guys. Might help 
 
 Make sure to download both "article.html" and "articlec.css" files and run the html file any of your preferred browser.
 Have  a nice day! :)
-Feel free to contact me anytime.
+Feel free to contact me anytime. 
